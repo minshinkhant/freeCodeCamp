@@ -46,7 +46,7 @@ Here are our ten core certifications:
 - [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
   <br />
   <br />
-  **Projects**: Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page, Personal Portfolio Webpage
+  > #### **Projects**: Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page, Personal Portfolio Webpage
 
 #### 2. JavaScript Algorithms and Data Structures Certification
 
@@ -61,7 +61,7 @@ Here are our ten core certifications:
 - [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
   <br />
   <br />
-  **Projects**: Palindrome Checker, Roman Numeral Converter, Caesar's Cipher, Telephone Number Validator, Cash Register
+  > #### **Projects**: Palindrome Checker, Roman Numeral Converter, Caesar's Cipher, Telephone Number Validator, Cash Register
 
 #### 3. Front End Libraries Certification
 
@@ -73,7 +73,7 @@ Here are our ten core certifications:
 - [React and Redux](https://learn.freecodecamp.org/front-end-libraries/react-and-redux)
   <br />
   <br />
-  **Projects**: Random Quote Machine, Markdown Previewer, Drum Machine, JavaScript Calculator, Pomodoro Clock
+  > #### **Projects**: Random Quote Machine, Markdown Previewer, Drum Machine, JavaScript Calculator, Pomodoro Clock
 
 #### 4. Data Visualization Certification
 
@@ -81,7 +81,7 @@ Here are our ten core certifications:
 - [JSON APIs and Ajax](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax)
   <br />
   <br />
-  **Projects**: Bar Chart, Scatterplot Graph, Heat Map, Choropleth Map, Treemap Diagram
+  > #### **Projects**: Bar Chart, Scatterplot Graph, Heat Map, Choropleth Map, Treemap Diagram
 
 #### 5. APIs and Microservices Certification
 
@@ -90,7 +90,7 @@ Here are our ten core certifications:
 - [MongoDB and Mongoose](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose)
   <br />
   <br />
-  **Projects**: Timestamp Microservice, Request Header Parser, URL Shortener, Exercise Tracker, File Metadata Microservice
+  > #### **Projects**: Timestamp Microservice, Request Header Parser, URL Shortener, Exercise Tracker, File Metadata Microservice
 
 #### 6. Quality Assurance Certification
 
@@ -98,14 +98,14 @@ Here are our ten core certifications:
 - [Advanced Node and Express](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express)
   <br />
   <br />
-  **Projects**: Metric-Imperial Converter, Issue Tracker, Personal Library, Sudoku Solver, American British Translator
+  > #### **Projects**: Metric-Imperial Converter, Issue Tracker, Personal Library, Sudoku Solver, American British Translator
    
 #### 7. Scientific Computing with Python Certification
 
 - [Introduction to Python for Everybody](https://learn.freecodecamp.org/scientific-computing-with-python/python-for-everybody)
   <br />
   <br />
-  **Projects**: Arithmetic Formatter, Time Calculator, Budget App, Polygon Area Calculator, Probability Calculator
+  > #### **Projects**: Arithmetic Formatter, Time Calculator, Budget App, Polygon Area Calculator, Probability Calculator
 
 #### 8. Data Analysis with Python Certification
 
@@ -113,7 +113,7 @@ Here are our ten core certifications:
 - [NumPy](https://learn.freecodecamp.org/data-analysis-with-python/numpy)
   <br />
   <br />
-  **Projects**: Mean-Variance-Standard Deviation Calculator, Demographic Data Analyzer, Medical Data Visualizer, Page View Time Series Visualizer, Sea Level Predictor
+  > #### **Projects**: Mean-Variance-Standard Deviation Calculator, Demographic Data Analyzer, Medical Data Visualizer, Page View Time Series Visualizer, Sea Level Predictor
   
 #### 9. Information Security Certification
 
@@ -121,7 +121,7 @@ Here are our ten core certifications:
 - [Python for Penetration Testing](https://learn.freecodecamp.org/information-security/python-for-penetration-testing)
   <br />
   <br />
-  **Projects**: Stock Price Checker, Anonymous Message Board, Port Scanner, SHA-1 Password Cracker, Secure Real Time Multiplayer Game 
+  > #### **Projects**: Stock Price Checker, Anonymous Message Board, Port Scanner, SHA-1 Password Cracker, Secure Real Time Multiplayer Game 
   
 #### 10. Machine Learning with Python Certification
 
@@ -129,7 +129,7 @@ Here are our ten core certifications:
 - [How Neural Networks Work](https://learn.freecodecamp.org/machine-learning-with-python/how-neural-networks-work)
   <br />
   <br />
-  **Projects**: Rock Paper Scissors, Cat and Dog Image Classifier, Book Recommendation Engine using KNN, Linear Regression Health Costs Calculator, Neural Network SMS Text Classifier
+  > #### **Projects**: Rock Paper Scissors, Cat and Dog Image Classifier, Book Recommendation Engine using KNN, Linear Regression Health Costs Calculator, Neural Network SMS Text Classifier
   
 #### Legacy Full Stack Development Certification
 
